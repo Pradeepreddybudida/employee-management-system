@@ -1,0 +1,13 @@
+/* src/App.css */
+body {
+  background: linear-gradient(to bottom, #f0f4ff, #ffffff); /* Example gradient */
+  font-family: 'Arial', sans-serif; /* Use a nice font */
+  color: #333; /* Darker text for contrast */
+  margin: 0;
+  padding: 0;
+  /* Full height */
+  display: flex;
+  flex-direction: column;
+
+  
+}
