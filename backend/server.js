@@ -16,5 +16,5 @@ app.use(bodyParser.json());
 app.use('/api', employeeRoutes);
 
 app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Server is running in new updated files on port ${PORT}`);
 });
